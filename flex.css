@@ -1,0 +1,5 @@
+.imagen {
+    width:300px; 
+    flex-wrap:wrap;
+    padding:2px;
+}
